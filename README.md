@@ -129,4 +129,4 @@ https://laravel.com/docs/8.x/sanctum
 
 ---
 
-Feel free to personalize the content further, add badges, shields, or any other relevant information that could enhance the readability and attractiveness of your README.md.
+

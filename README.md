@@ -64,7 +64,11 @@ $PROJECT_ROOT
 
 1. Clone the repository:
 ```
-cd yourproject
+https://github.com/elmahdibouaiti/authentication.git
+```
+
+```
+cd authentication
 ```
 2. Install dependencies:
 
